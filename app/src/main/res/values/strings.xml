@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Flixster</string>
+    <color name="background">#ece8fe</color>
 </resources>
